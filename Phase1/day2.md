@@ -6,7 +6,7 @@ Learned:
 - mkdir creates a folder. New-Item creates a file. cat shows what is inside a file.
 
 Confused:
-- (write here what felt unclear, or "nothing yet")
+
 
 Built:
 - Created notes/, projects/ and practice/ inside Phase1 using only the terminal.
