@@ -20,6 +20,11 @@
 - mkdir  → create a folder
 - New-Item file -ItemType File  → create a file
 - cat  → show what is inside a file
+
+        cat Phase1\notes\day02.md
+        cat Phase1\notes\day01.md, Phase1\notes\day02.md
+        Get-Content Phase1\notes\day02.md -TotalCount 3
+        Get-Content Phase1\notes\day02.md -Tail 3
 - cp  → copy
 - mv  → move, or rename
 - rm  → delete permanently (no Recycle Bin), so run pwd and ls first
